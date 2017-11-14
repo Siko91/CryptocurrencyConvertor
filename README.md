@@ -1,4 +1,4 @@
-# Currency Converter
+# Cryptourrency Converter
 
 A very simple cryptocurrency conversion calculator.
 
