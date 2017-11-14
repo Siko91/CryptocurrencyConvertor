@@ -9,7 +9,7 @@ If currency is Bitcoin, the API call would be:
 https://api.coinmarketcap.com/v1/ticker/bitcoin/
 
 > convert: currencyconverter --amount <amount> --from <from> --to <to>
-> example: currencyconverter --amount 10000 --from bitcoin --to ethereum
+example: currencyconverter --amount 10000 --from bitcoin --to ethereum
 
 > list all coins : currencyconverter --listAll
 
